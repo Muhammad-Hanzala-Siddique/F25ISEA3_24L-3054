@@ -1,0 +1,32 @@
+Carrot
+Broccoli
+Spinach
+Cucumber
+Potato
+Tomato
+Lettuce
+Onion
+Peas
+Bell Pepper
+Zucchini
+Cauliflower
+Eggplant
+Pumpkin
+Radish
+Asparagus
+Corn
+Green Beans
+Sweet Potato
+Brussels Sprouts
+Cabbage
+Beetroot
+Leek
+Kale
+Artichoke
+Chard
+Squash
+Turnip
+Celery
+Mushroom
+Fennel
+Ginger
